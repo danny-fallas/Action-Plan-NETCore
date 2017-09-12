@@ -1,0 +1,12 @@
+{
+  "name": "braintree.js",
+  "version": "0.0.0",
+  "description": "Braintree.JS",
+  "main": "server.js",
+  "author": {
+    "name": "dann_"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
